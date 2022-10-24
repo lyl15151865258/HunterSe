@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/HunterSe/app/src/main/res/drawable/bg_splash.xml" value="0.286" />
+        <entry key="..\:/AndroidStudioProjects/HunterSe/app/src/main/res/layout/activity_main.xml" value="0.2573749465583583" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_back.xml" value="0.1735" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_btn.xml" value="0.247" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_btn_normal.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_btn_pressed.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_info_gray.xml" value="0.282" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_rb_checked_left.xml" value="0.282" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_rb_checked_middle.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_rb_checked_right.xml" value="0.282" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_rb_left.xml" value="0.282" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_rb_middle.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_rb_right.xml" value="0.282" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/bg_splash.xml" value="0.305" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi0.xml" value="0.3095" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi1.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi2.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi3.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi4.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi5.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi_disconnect.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/drawable/ic_wifi_level.xml" value="0.2705" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/layout/activity_logo.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/layout/activity_main.xml" value="0.24161378059836808" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/layout/activity_tcp_udp_test.xml" value="0.29546638874413755" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/layout/layout_info.xml" value="0.31354166666666666" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/layout/main_tcp_udp_test.xml" value="0.2953125" />
+        <entry key="..\:/AndroidStudioProjects/RemoteControl/app/src/main/res/layout/navi_setting_tcp_udp_test.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

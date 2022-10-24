@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <item android:drawable="@drawable/bg_screen" />
+
+    <item
+        android:width="@dimen/dp_520"
+        android:height="@dimen/dp_60"
+        android:bottom="@dimen/dp_150"
+        android:drawable="@drawable/ic_title"
+        android:gravity="center" />
+
+    <item
+        android:width="@dimen/dp_270"
+        android:height="@dimen/dp_15"
+        android:bottom="@dimen/dp_10"
+        android:drawable="@drawable/ic_copyright"
+        android:gravity="bottom|center_horizontal" />
+
+</layer-list>
